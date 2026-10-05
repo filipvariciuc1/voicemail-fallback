@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><Response><Say voice="woman">Please leave your message after the tone.</Say><Record playBeep="true" maxLength="240" timeout="6" finishOnKey="#" transcribe="true" trim="trim-silence" action="https://filipvariciuc1.github.io/voicemail-fallback/done.xml" method="GET"/><Say voice="woman">I did not hear anything. Goodbye.</Say><Hangup/></Response>
